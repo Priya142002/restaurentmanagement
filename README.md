@@ -12,7 +12,9 @@ Key Features:
 ✅ Reservation Form – Allows customers to book tables online.
 
 ✅ Contact Page – Includes restaurant details and an inquiry form.
+
 ✅ Responsive Design – Ensures smooth experience across all devices.
+
 ✅ Interactive UI – Smooth animations, hover effects, and dynamic content using JavaScript.
 
 Technologies Used:
