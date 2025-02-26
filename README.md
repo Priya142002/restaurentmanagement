@@ -15,7 +15,7 @@ A **responsive and interactive** Restaurant Management System built using **HTML
 - **Animations:** CSS Transitions, JavaScript Effects  
 
 ## 📸 Screenshots
-*(Add screenshots or a demo GIF of your project here)*
+added screenshots also
 
 ## 📌 How to Run
 1. Clone this repository:  
