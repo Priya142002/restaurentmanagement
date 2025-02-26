@@ -1,27 +1,23 @@
-Restaurant Management Website 🍽️
+# 🍽️ Restaurant Management System
 
-Overview:
-This is a responsive and user-friendly Restaurant Management Website built using HTML, CSS, and JavaScript. It provides an elegant and efficient interface for customers to explore the menu, place orders, and learn about the restaurant.
+A **responsive and interactive** Restaurant Management System built using **HTML, CSS, and JavaScript**. This project provides a seamless user experience, showcasing modern UI/UX principles for restaurant management.
 
-Key Features:
+## 🚀 Features
+✅ User-friendly and intuitive interface  
+✅ Responsive design for desktop and mobile  
+✅ Interactive menu and ordering system  
+✅ Smooth navigation and animations  
+✅ Well-structured and maintainable code  
 
-✅ Home Page – A visually appealing landing page showcasing the restaurant’s ambiance and services.
+## 🛠️ Technologies Used
+- **Frontend:** HTML, CSS, JavaScript  
+- **Styling:** Bootstrap (if used), Custom CSS  
+- **Animations:** CSS Transitions, JavaScript Effects  
 
-✅ Menu Section – Displays a variety of food items with images, descriptions, and prices.
+## 📸 Screenshots
+*(Add screenshots or a demo GIF of your project here)*
 
-✅ Reservation Form – Allows customers to book tables online.
-
-✅ Contact Page – Includes restaurant details and an inquiry form.
-
-✅ Responsive Design – Ensures smooth experience across all devices.
-
-✅ Interactive UI – Smooth animations, hover effects, and dynamic content using JavaScript.
-
-Technologies Used:
-🔹 HTML – Structured the web pages.
-🔹 CSS (Bootstrap) – Styled the layout and made it responsive.
-🔹 JavaScript – Added interactivity like form validation and animations.
-
-📌 This project helped me strengthen my frontend development skills, including UI design, responsiveness, and user experience (UX) optimization.
-
-🚀 Looking forward to expanding this project by integrating a backend and database for order management!
+## 📌 How to Run
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/your-username/restaurant-management.git
